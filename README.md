@@ -95,11 +95,6 @@ Reusable component library following **Atomic Design**, documented with Storyboo
 - **Highlight:** 20+ documented components; used across 3 internal projects
 - 🔗 [Storybook](https://your-storybook.com)
 
-### 🤖 [Project 4 Name — e.g., Answer Sheet OCR (Instituto Ayrton Senna)](https://github.com/YOUR-USERNAME/project-4)
-Flutter app with **OpenCV** for capturing and processing answer sheets via OCR. A social-impact project reaching **500+ schools**.
-- **Stack:** Flutter, Dart, OpenCV, Python, REST API
-- **Highlight:** Reduced result processing time from **5 weeks to 5 days (>84%)**
-
 ---
 
 ## 📊 GitHub Stats
